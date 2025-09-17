@@ -17,4 +17,3 @@
 ## Current Goal
 Review the watercolor Eevee tutorial and shader nodes.
 
-## Next Goal
